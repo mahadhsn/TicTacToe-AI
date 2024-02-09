@@ -37,7 +37,7 @@ This project sparked an interest within me for AI/Machine Learning and its endle
 
 ### Future Plans?
 
-I will definetly put more hours into `Machine Learning` (specifically reinforcement learning) and spend more time researching `Neural Networks` and how they function. Learning this skill will open a new world of possibilites for me. 
+I will definetly put more hours into `Machine Learning` (specifically reinforcement learning) and spend more time researching `Neural Networks` and how they function. Learning this skill will open a new world of possibilites for me. Outside of Python, I want to start learning `SQL` and implement that into Machine Learning for databases and other things. `C++` is also a compelling sight for me right now as it has so many endless possibilites.
 
 
 
