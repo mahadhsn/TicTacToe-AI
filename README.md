@@ -12,6 +12,7 @@ I created this game with 2 different gamemodes: one to play against the `AI` and
 - <b>`Sys`</b>: To exit the system
 - <b>`Random`</b>: For the AI's first move
 - <b>`Copy`</b>: Implemented in the `MiniMax Function`
+- <b>`Const`</b>: Just a self-made python file for any constants
 
 ### Code Structure
 
