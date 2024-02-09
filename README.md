@@ -1,7 +1,7 @@
 # TicTacToe AI
 
 ### Project Description
-I tasked myself to create an <b> unbeatable </b> TicTacToe AI within python without the use of any AI libraries. I successfully did so within just over <b> 400 lines of code </b>. 
+I tasked myself to create an <b> unbeatable </b> `TicTacToe AI` entirely within `Python` without the use of any AI libraries. I successfully did so within just over <b> 400 lines of code </b>. 
 
 I created this game with 2 different gamemodes: one to play against the `AI` and one for casual `PVP`. You are also able to choose whether you want to play the game as `X` or `O`.
 
